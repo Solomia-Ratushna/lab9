@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\ADMIN\Desktop\lab9.2а\lab9.2a\Source.cpp(50,10): warning C4101: 'filename': unreferenced local variable
+C:\Users\ADMIN\Desktop\lab9.2а\lab9.2a\Source.cpp(113,9): warning C4101: 'kurs': unreferenced local variable
+C:\Users\ADMIN\Desktop\lab9.2а\lab9.2a\Source.cpp(166,22): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  lab9.2a.vcxproj -> C:\Users\ADMIN\Desktop\lab9.2а\lab9.2a\Debug\lab9.2a.exe
